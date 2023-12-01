@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="b"
+                 name="Bibliothèque"
+                 start-page="Bibliotheque.topic">
+
+    <toc-element topic="Bibliotheque.topic">
+        <toc-element topic="guides.topic"/>
+        <toc-element topic="commands.topic"/>
+        <toc-element topic="problem.topic"/>
+        <toc-element topic="links.topic"/>
+    </toc-element>
+
+</instance-profile>
