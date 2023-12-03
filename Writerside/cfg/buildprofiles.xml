@@ -5,9 +5,9 @@
         <algolia-index>bibliotheque</algolia-index>
         <algolia-api-key>03c7b86cdbebdfbe991e5d1907079492</algolia-api-key>
         <primary-color>blueberry</primary-color>
-        <header-logo>bibliotheque.png</header-logo>
+        <header-logo>https://media.discordapp.net/attachments/839568418474557470/1180938841188728912/bibliotheque.png</header-logo>
         <custom-favicons>bibliotheque.png</custom-favicons>
-        <web-root>https://vincentdiribarne.github.io/BiblioDoc/bibliotheque.html</web-root>
+        <web-root>https://vincentdiribarne.github.io/BiblioDoc</web-root>
     </variables>
     <build-profile instance="hi"/>
     <footer>
