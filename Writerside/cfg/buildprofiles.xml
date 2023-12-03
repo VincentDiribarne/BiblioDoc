@@ -6,7 +6,11 @@
         <algolia-api-key>03c7b86cdbebdfbe991e5d1907079492</algolia-api-key>
         <web-root>https://vincentdiribarne.github.io/BiblioDoc/</web-root>
     </variables>
-    <build-profile instance="b"/>
+    <build-profile instance="hi">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
     <footer>
         <copyright>2023-2024 MisterVinvin</copyright>
         <social type="email" href="vdiribarne@gmail.com"/>
