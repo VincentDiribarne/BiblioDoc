@@ -1,0 +1,16 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <algolia-id>XLMKWPZL8P</algolia-id>
+        <algolia-index>bibliotheque</algolia-index>
+        <algolia-api-key>03c7b86cdbebdfbe991e5d1907079492</algolia-api-key>
+        <web-root>https://vincentdiribarne.github.io/BiblioDoc/</web-root>
+    </variables>
+    <build-profile instance="b"/>
+    <footer>
+        <copyright>2023-2024 MisterVinvin</copyright>
+        <social type="email" href="vdiribarne@gmail.com"/>
+        <link href="">Ajouter le bot</link>
+        <link href="">Serveur de support</link>
+    </footer>
+</buildprofiles>

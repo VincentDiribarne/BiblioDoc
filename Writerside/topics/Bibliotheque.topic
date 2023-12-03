@@ -7,11 +7,7 @@
 
     <section-starting-page>
         <title>Bibliothèque</title>
-        <description> Je suis un bot</description>
-        <spotlight>
-            <a href="problem.topic" type="settings"></a>
-            <a href="commands.topic" type="settings"></a>
-        </spotlight>
+        <description> Bienvenue sur la documentation de Bibliothèque</description>
 
         <primary>
             <title>
