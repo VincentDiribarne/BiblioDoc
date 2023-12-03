@@ -9,7 +9,7 @@
         <custom-favicons>bibliotheque.png</custom-favicons>
         <web-root>https://vincentdiribarne.github.io/BiblioDoc</web-root>
     </variables>
-    <build-profile instance="hi"/>
+    <build-profile instance="https://vincentdiribarne.github.io/BiblioDoc"/>
     <footer>
         <copyright>2023-2024 MisterVinvin</copyright>
         <social type="email" href="vdiribarne@gmail.com"/>
