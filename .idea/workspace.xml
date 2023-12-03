@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36507cad-c5ba-4e9a-8349-0490bd2b8225" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/images/slash.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/bibliotheque/Cropped_Image.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/images/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Bibliotheque.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Bibliotheque.topic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/links.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/inviteBot.topic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/problem.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/problem.topic" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +21,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="version1.0" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="InstanceColorv3">
@@ -89,7 +100,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "StartWithBot",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/vdiri/Workspace/Documentation/BiblioDoc"
   }
 }]]></component>
@@ -98,6 +110,14 @@
       <recent name="C:\Users\vdiri\Workspace\Documentation\BiblioDoc\Writerside\images" />
       <recent name="C:\Users\vdiri\Workspace\Documentation\BiblioDoc\Writerside\bibliotheque" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Build Bibliothèque (hi)" type="StardustRunConfiguration" factoryName="save-as-zip">
+      <option name="folderPath" value="$PROJECT_DIR$" />
+      <option name="instanceId" value="hi" />
+      <option name="instanceName" value="Bibliothèque" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
 </project>

@@ -3,14 +3,14 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Bibliothèque" id="Bibliotheque">
+       title="Accueil" id="Bibliotheque">
 
     <section-starting-page>
         <title>Bibliothèque</title>
-        <description> Je suis un bot</description>
+        <description>Bienvenue dans la description du bot</description>
         <spotlight>
-            <a href="problem.topic" type="settings"></a>
-            <a href="commands.topic" type="settings"></a>
+            <a href="start.topic" type="start" summary="Pourquoi utiliser Bibliothèque ?"></a>
+            <a href="commands.topic" type="tools" summary="Apprends à utiliser toutes les commandes du bot !"></a>
         </spotlight>
 
         <primary>
@@ -25,7 +25,6 @@
             <title>
                 Précis
             </title>
-            <a href="links.topic"></a>
             <a href="problem.topic"></a>
         </secondary>
 

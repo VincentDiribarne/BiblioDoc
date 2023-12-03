@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap id="my_keymap">
+    <layouts>
+        <layout name="windows" platform="PC"/>
+        <layout name="phone" platform="Phone"/>
+    </layouts>
+
+</keymap>
