@@ -7,10 +7,17 @@
                  start-page="Bibliotheque.topic">
 
     <toc-element topic="Bibliotheque.topic">
-        <toc-element topic="guides.topic"/>
-        <toc-element topic="commands.topic"/>
-        <toc-element topic="problem.topic"/>
-        <toc-element topic="links.topic"/>
+        <toc-element topic="start.topic"/>
+        <toc-element topic="inviteBot.topic"/>
     </toc-element>
+    <toc-element topic="guides.topic">
+        <toc-element topic="realize-command.topic">
+        </toc-element>
+        <toc-element topic="realise-mention.topic"/>
+    </toc-element>
+    <toc-element topic="commands.topic"/>
+    <toc-element topic="problem.topic"/>
 
+    <toc-element toc-title="Inviter le bot" href="https://discord.com/api/oauth2/authorize?client_id=839241419439734864&amp;permissions=8&amp;scope=bot"/>
+    <toc-element toc-title="Rejoindre le serveur de support" href="https://discord.gg/WbPJ39K6r5"/>
 </instance-profile>

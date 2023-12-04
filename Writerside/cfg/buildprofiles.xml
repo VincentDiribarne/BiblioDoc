@@ -4,16 +4,22 @@
         <algolia-id>XLMKWPZL8P</algolia-id>
         <algolia-index>bibliotheque</algolia-index>
         <algolia-api-key>03c7b86cdbebdfbe991e5d1907079492</algolia-api-key>
-        <primary-color>blueberry</primary-color>
+        <primary-color>metallic</primary-color>
         <header-logo>https://media.discordapp.net/attachments/839568418474557470/1180938841188728912/bibliotheque.png</header-logo>
         <custom-favicons>bibliotheque.png</custom-favicons>
+        <product-web-url>https://vincentdiribarne.github.io/BiblioDoc/bibliotheque.html</product-web-url>
         <web-root>https://vincentdiribarne.github.io/BiblioDoc</web-root>
     </variables>
-    <build-profile instance="https://vincentdiribarne.github.io/BiblioDoc"/>
+    <shortcuts>
+        <src>keymap.xml</src>
+        <layout name="windows" display-name="Windows"/>
+        <layout name="phone" display-name="Téléphone"/>
+    </shortcuts>
+    <build-profile instance="hi"/>
     <footer>
         <copyright>2023-2024 MisterVinvin</copyright>
         <social type="email" href="vdiribarne@gmail.com"/>
-        <link href="">Ajouter le bot</link>
+        <link href="https://discord.com/api/oauth2/authorize?client_id=839241419439734864&permissions=8&scope=bot">Ajouter le bot</link>
         <link href="https://discord.gg/WbPJ39K6r5">Serveur de support</link>
     </footer>
 </buildprofiles>
