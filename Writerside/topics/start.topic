@@ -4,7 +4,11 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Bien debuter avec le bot" id="start">
-    <p>Bienvenue sur la documentation de Bibliothèque ! Je suis <control>MisterVinvin</control>, le créateur du bot et votre guide pour cette documentation. Si jamais, vous aimez ce bot, n'hésitez pas à me le faire savoir. Encore un grand merci à vous et bonne lecture</p>
+    <p>Bienvenue sur la documentation de Bibliothèque ! Je suis
+        <control>MisterVinvin</control>
+        , le créateur du bot et votre guide pour cette documentation. Si vous aimez ce bot, n'hésitez pas à me le faire
+        savoir. Encore un grand merci à vous et bonne lecture
+    </p>
 
     <chapter title="Pourquoi utiliser Bibliothèque ?" id="startDoc">
         <p>
@@ -12,13 +16,15 @@
             Besoin de gérer un serveur actif, ou de le rendre plus moderne, je suis là pour toi !
         </p>
         <p>
-            Dans cette documentation, tu pourras te renseigner sur les différentes commandes du bot, des guides qui
+            Dans cette documentation, tu pourras te renseigner sur les différentes commandes du bot en trouvant des
+            guides qui
             peuvent t'aider à l'utiliser.
         </p>
         <p>
-            Enfin, Bibliothèque utilise à 100% <img src="slash.png" width="22" style="inline" alt="Commande slash"/><a
-                href="realize-command.topic">les commandes slash</a>, il s'agit du moyen le plus facile d'utiliser un
-            bot.
+            Enfin, Bibliothèque utilise à 100% <a href="realize-command.topic"><img src="slash.png" width="22"
+                                                                                    style="inline"
+                                                                                    alt="Commande slash"/>
+            les commandes slash</a>, il s'agit du moyen le plus facile d'utiliser un bot.
         </p>
 
         <p>Qu'est ce que tu attends pour
@@ -30,12 +36,29 @@
         <deflist>
             <def title="Les fonctionnalités en question 😉">
                 <list type="bullet">
-                    <li>👑 <control>Administrer ton serveur</control> avec de nombreuses commandes</li>
-                    <li>✉️ <control>Gérer les arrivées et les départs</control>, avec des messages de bienvenue</li>
-                    <li>🙍 <control>Laisser la parole à la communauté</control> avec un système de niveau et de présentation</li>
-                    <li>🌐 <control>Mettre en avant tes réseaux </control></li>
-                    <li>📈 <control>Garder un serveur actif</control>, avec des statistiques</li>
-                    <li>🔧 <control>Améliorer ton serveur</control> avec un système de suggestion</li>
+                    <li>👑
+                        <control>Administrer ton serveur</control>
+                        avec de nombreuses commandes
+                    </li>
+                    <li>✉️
+                        <control>Gérer les arrivées et les départs</control>
+                        avec des messages de bienvenue
+                    </li>
+                    <li>🙍
+                        <control>Laisser la parole à la communauté</control>
+                        avec un système de niveau et de présentation
+                    </li>
+                    <li>🌐
+                        <control>Mettre en avant tes réseaux</control>
+                    </li>
+                    <li>📈
+                        <control>Garder un serveur actif</control>
+                        avec des statistiques
+                    </li>
+                    <li>🔧
+                        <control>Améliorer ton serveur</control>
+                        avec un système de suggestions
+                    </li>
                 </list>
             </def>
         </deflist>

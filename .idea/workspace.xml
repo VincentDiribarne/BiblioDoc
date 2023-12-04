@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36507cad-c5ba-4e9a-8349-0490bd2b8225" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Writerside/images/slash.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/bibliotheque/Cropped_Image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/cfg/buildprofiles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/images/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Bibliotheque.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Bibliotheque.topic" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/links.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/inviteBot.topic" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/problem.topic" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/problem.topic" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,25 +80,29 @@
       </map>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2Z2a3vhxXMaBz1awuxr5DwyS2lX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "StartWithBot",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/vdiri/Workspace/Documentation/BiblioDoc"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;StartWithBot&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vdiri/Workspace/Documentation/BiblioDoc&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vdiri\Workspace\Documentation\BiblioDoc" />
       <recent name="C:\Users\vdiri\Workspace\Documentation\BiblioDoc\Writerside\images" />
       <recent name="C:\Users\vdiri\Workspace\Documentation\BiblioDoc\Writerside\bibliotheque" />
     </key>
